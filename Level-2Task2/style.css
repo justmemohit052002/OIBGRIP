@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: #e5e5fd;
+    min-height: 100vh;
+    border: 10px solid #1d1e4c;
+}
+.content{
+    max-width: 900px;
+    margin:0 auto;
+}
+.image_container,img{
+    width: 300px;
+    height: 300px;
+}
+
+.top_section{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.image_container{
+    border-radius: 50%;
+    overflow: hidden;
+}
+.top_section h1{
+    font-size: 50px;
+    font-weight: bold;
+    color:#1d1e4c;
+    text-transform: uppercase;
+}
+.top_section h4{
+    font-size: 30px;
+    text-align: end;
+}
+.about_section{
+    margin-top: 50px;
+}
+.about_section h2{
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.about_section p{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.8px;
+}
+.Birth_section{
+    margin-top: 50px;
+}
+.Birth_section h2{
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.Birth_section p{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.8px;
+}
+.quote{
+    font-size: 50px;
+    color:#1d1e4c;
+    text-transform: uppercase;
+}
+.quote h4{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.Education_section{
+    margin-top: 50px;
+}
+.Education_section h2{
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.Education_section p{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.8px;
+}
+.nationalism{
+    margin-top: 50px;
+}
+.nationalism h2{
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.nationalism p{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.8px;
+}
+.Celebrations{
+    margin-top: 50px;
+}
+.Celebrations h2{
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.Celebrations p{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.8px;
+    margin-bottom: 200px;
+}
+.legacy{
+    margin-top: 50px;
+}
+.legacy h2{
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.legacy p{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.8px;
+}
+.madeby{
+    text-align: center;
+}
